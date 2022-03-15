@@ -17,4 +17,5 @@
     <string name="tvSilahkanLogin">Silahkan login untuk memakai aplikasi</string>
     <string name="image_logo">Logo</string>
     <string name="login">Login</string>
+    <string name="menu_developer">Developer</string>
 </resources>

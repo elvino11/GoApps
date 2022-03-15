@@ -26,6 +26,6 @@
     <fragment
         android:id="@+id/nav_developper"
         android:name="com.example.goapps.ui.developper.DevelopperFragment"
-        android:label="Developer"
+        android:label="@string/menu_developer"
         tools:layout="@layout/fragment_slideshow" />
 </navigation>
